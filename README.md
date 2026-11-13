@@ -197,6 +197,7 @@ me = AathithyaArasu()
 
 | | Achievement | Details |
 |:-:|:------------|:--------|
+| 💻 | **First merged open-source PR - [psf/black #5664](https://github.com/psf/black/pull/5664)** | Fixed acceptance of zero and negative line-length settings using Click validation. Merged November 2026. |
 | 🥇 | **Cognizant Technoverse Hackathon 2026 — Finalist** | National-level CTS hackathon; Personalised Banking theme; built Mu AI Finance Agent (bank statement ingestion, transaction categorisation, GST compliance, what-if simulation, Ollama Qwen AI chat) |
 | 🥈 | **Makethon 3.0 — Finalist** | Feb 2026 |
 | 🎓 | **SIH 2026 — Top 50 College Team** | Confirmed slot representing St. Joseph's College of Engineering |
